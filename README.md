@@ -1,4 +1,4 @@
-# Homework 1 – Data Validation & Cleaning  
+# Data Validation & Cleaning  
 **Dataset:** The Metropolitan Museum of Art — *Open Access* (MetObjects.csv)
 
 ## Overview  
